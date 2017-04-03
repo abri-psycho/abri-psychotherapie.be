@@ -18,7 +18,7 @@ body {
 }
 #global_container {
 	float: left;
-	background: url(/sites/all/themes/abri/images/bg_main.jpg) repeat-y;
+	background: url(./sites/all/themes/abri/images/bg_main.jpg) repeat-y;
 }
 #top {
 	float: left;
@@ -65,7 +65,7 @@ body {
 	text-align: right;
 	padding: 20px 80px 0 50px;
 	margin: 0;
-	background: url(/sites/all/themes/abri/images/bg_footer.jpg) no-repeat top left;
+	background: url(./sites/all/themes/abri/images/bg_footer.jpg) no-repeat top left;
 }
 #block-menu-2 ul.menu_1, #block-menu-2 .menu_1 ul li {
 	list-style: none;
