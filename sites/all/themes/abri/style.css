@@ -92,6 +92,8 @@ body {
 	color: #585757;
 	font-weight: normal;
 	text-decoration: none;
+	display: block;
+  width: 100%;
 }
 #block-menu-2 li.leaf {
 	list-style-image: none;
